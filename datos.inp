@@ -1,0 +1,14 @@
+densidad 1025
+profundidad 250
+g 9.81
+T 10
+w 0
+L 0
+H 8
+Cd 1
+Cm 2
+t_inicial 140
+t_final 150
+Zcilindro_sup 0
+Zcilindro_inf -54
+Dcilindro 28.35
